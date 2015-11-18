@@ -1,0 +1,28 @@
+What did you like or dislike and why?
+
+i really disliked how we were required to use the gridworld framework.
+i understand how learning how to use and understand frameworks is an important skill,
+but honestly i could have finished this lab in a fraction of the time with java shapes.
+
+what was surprising or unexpected?
+
+it was really surprising how many errors came up. first there were the arraylists.
+thought we had to use arraylists.
+apparently arraylists are array with location items inside, and it was .size() instead
+of .length().
+
+what did you learn?
+
+well i learned not to procrastinate till the last 3 days. those 3 days were the most
+painful i've had in a while.
+
+What questions do you still have?
+
+umm, was there a "correct" way to do this lab? my friends talked about using 2 grids at once,
+so you could read all the occupied locations and then update it at once instead of using
+arraylists
+
+whate advice would you offer to next year's students?
+
+this lab is super fun but challenging! try to allocate enough time, + extra just in case 
+awful errors come up.
